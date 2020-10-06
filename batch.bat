@@ -1,1 +1,1 @@
-mkdir C:\Users\viksindh\Documents\Qurate\qurate_oct_2020\qurate
+mkdir C:\Users\viksindh\Documents\Qurate\qurate_oct_2020\sapient
