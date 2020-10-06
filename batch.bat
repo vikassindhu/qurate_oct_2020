@@ -1,3 +1,3 @@
-mkdir C:\Users\viksindh\Documents\Qurate\qurate_oct_2020\publicis
+mkdir C:\Users\viksindh\Documents\Qurate\qurate_oct_2020\publicis1
 
 
